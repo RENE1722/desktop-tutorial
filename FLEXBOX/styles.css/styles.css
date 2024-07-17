@@ -1,0 +1,15 @@
+
+body{
+
+background-color: aquamarine;
+
+}
+.caja{
+border: 1px     solid  rgb(70,69, 69);
+background-color: azure
+color;yellow 
+font-family: " Courier new  ",Courier, monospace;
+font-weight: bold;
+width:120px;
+height: 80px; 
+}
